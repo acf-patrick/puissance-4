@@ -1,2 +1,2 @@
 ## puissance 4
-connect4 game implemented in python
+Connect4 game implemented in python
